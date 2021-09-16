@@ -1,0 +1,27 @@
+C:\Users\vargam53\source\repos\RealTimeServer\RealTimeServer\bin\Debug\RealTimeServer.exe.config
+C:\Users\vargam53\source\repos\RealTimeServer\RealTimeServer\bin\Debug\RealTimeServer.exe
+C:\Users\vargam53\source\repos\RealTimeServer\RealTimeServer\bin\Debug\RealTimeServer.pdb
+C:\Users\vargam53\source\repos\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.csproj.AssemblyReference.cache
+C:\Users\vargam53\source\repos\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.csproj.CoreCompileInputs.cache
+C:\Users\vargam53\source\repos\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.exe
+C:\Users\vargam53\source\repos\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.pdb
+C:\Users\vargam53\OneDrive - Medtronic PLC\Desktop\RealTimeServer\RealTimeServer\bin\Debug\RealTimeServer.exe.config
+C:\Users\vargam53\OneDrive - Medtronic PLC\Desktop\RealTimeServer\RealTimeServer\bin\Debug\RealTimeServer.exe
+C:\Users\vargam53\OneDrive - Medtronic PLC\Desktop\RealTimeServer\RealTimeServer\bin\Debug\RealTimeServer.pdb
+C:\Users\vargam53\OneDrive - Medtronic PLC\Desktop\RealTimeServer\RealTimeServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vargam53\OneDrive - Medtronic PLC\Desktop\RealTimeServer\RealTimeServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vargam53\OneDrive - Medtronic PLC\Desktop\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.csproj.AssemblyReference.cache
+C:\Users\vargam53\OneDrive - Medtronic PLC\Desktop\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.csproj.CoreCompileInputs.cache
+C:\Users\vargam53\OneDrive - Medtronic PLC\Desktop\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.csproj.CopyComplete
+C:\Users\vargam53\OneDrive - Medtronic PLC\Desktop\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.exe
+C:\Users\vargam53\OneDrive - Medtronic PLC\Desktop\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.pdb
+C:\Users\maria\OneDrive - Estudiantes ITCR\Escritorio\LevelUp\RealTimeServer\RealTimeServer\bin\Debug\RealTimeServer.exe.config
+C:\Users\maria\OneDrive - Estudiantes ITCR\Escritorio\LevelUp\RealTimeServer\RealTimeServer\bin\Debug\RealTimeServer.exe
+C:\Users\maria\OneDrive - Estudiantes ITCR\Escritorio\LevelUp\RealTimeServer\RealTimeServer\bin\Debug\RealTimeServer.pdb
+C:\Users\maria\OneDrive - Estudiantes ITCR\Escritorio\LevelUp\RealTimeServer\RealTimeServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maria\OneDrive - Estudiantes ITCR\Escritorio\LevelUp\RealTimeServer\RealTimeServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maria\OneDrive - Estudiantes ITCR\Escritorio\LevelUp\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive - Estudiantes ITCR\Escritorio\LevelUp\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - Estudiantes ITCR\Escritorio\LevelUp\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.csproj.CopyComplete
+C:\Users\maria\OneDrive - Estudiantes ITCR\Escritorio\LevelUp\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.exe
+C:\Users\maria\OneDrive - Estudiantes ITCR\Escritorio\LevelUp\RealTimeServer\RealTimeServer\obj\Debug\RealTimeServer.pdb
